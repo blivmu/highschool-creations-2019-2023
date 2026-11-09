@@ -1,0 +1,32 @@
+newmtl Barrel1Mtl
+Material Color
+Ka 1 0 0
+Kd 1 0 0
+Ks 0.396078 0 0 
+
+d 1
+
+Ns 0
+
+map_Ka Barrel1_diff.png
+map_Kd Barrel1_diff.png
+map_d Barrel1_diff.png
+
+map_Bump Barrel1_nmap.png
+
+newmtl Handle1Mtl
+Material Color
+Ka 0.201096 0 0.201096
+Kd 0.201096 0 0.201096
+Ks 0.0796497 0 0.0796497 
+
+d 1
+
+Ns 0
+
+map_Ka Barrel1_diff.png
+map_Kd Barrel1_diff.png
+map_d Barrel1_diff.png
+
+map_Bump Barrel1_nmap.png
+
