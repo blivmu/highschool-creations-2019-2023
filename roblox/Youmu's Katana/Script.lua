@@ -3,7 +3,7 @@
 
 -- katana for Youmuu Konpaku for a Touhou fangame, original model and script made by Rufus14
 
---[[   modifications: added ranged attacks using vector math/physics and a "night mode" per Youmuu Konpaku's 
+--[[   modifications: added ranged attacks using vector math/physics and a "ghost mode" per Youmuu Konpaku's 
 theme (from "Touhou Project"), changing the skybox, its model and giving the player greater stats   ]]--
 
 -- this took way longer than it should've but it was a fun learning experience with 3-dimensional math and physics c:
