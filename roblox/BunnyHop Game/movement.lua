@@ -1,5 +1,7 @@
 -- Helper physics script for the bhop movement after a Roblox Studio update broke the first one
--- Written by Blivmu April 2021
+-- Made to replicate CS:GO's movement physics
+
+-- Written by Blivmu May 2021
 
 local player = game.Players.LocalPlayer
 local character = player.Character
