@@ -1,3 +1,6 @@
+-- sound effects
+-- Blivmu, March 2021
+
 local SoundService = game:GetService("SoundService")
 local player = game.Players.LocalPlayer
 local character = player.Character
